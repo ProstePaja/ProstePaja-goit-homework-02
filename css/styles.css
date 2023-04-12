@@ -168,21 +168,20 @@ color: #F4F4FD;
     background-color: #E5E5E5;
 }
 
-.button-title-port {
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.04em;
-    background-color: #4D5AE5;
-    color: #FFFFFF;
-    cursor: pointer;
+.button-title-port-all {
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #FFFFFF;
 }
 
-.button-title-port:hover,
-.button-title-port:focus {
-    background-color: #404BBF;
+.button-title-port{
+    font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #4D5AE5;
 }
