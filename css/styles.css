@@ -50,6 +50,7 @@
 
 .menu-link{
     font-family: 'Roboto', sans-serif;
+        font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -62,35 +63,6 @@
     color: #404bbf;
 }
 
-.contact-email{
-        font-family: 'Roboto', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
-
-.contact-email:hover,
-.contact-email:focus{
-    color: #404bbf;
-}
-
-.contact-tel-number{
-        font-family: 'Roboto', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
-
-.contact-tel-number:hover,
-.contact-tel-number:focus{
-    color: #404bbf;
-}
 
 .main-title{
         font-family: 'Roboto', sans-serif;
