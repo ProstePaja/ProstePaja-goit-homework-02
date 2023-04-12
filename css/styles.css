@@ -157,3 +157,9 @@ color: #F4F4FD;
 .logo-text-buffer{
     color: #f4f4fd;
 }
+
+/*portfolio upravy*/
+.portfoloi:hover,
+.portfolio:focus{
+    color:#404bbf;
+}
