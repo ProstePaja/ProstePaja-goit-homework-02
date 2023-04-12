@@ -54,10 +54,61 @@
 }
 
 .contact-tel-number{
-        font-family: 'Roboto',sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+}
+
+.main-title{
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        /**color: #FFFFFF;**/
+}
+
+.button-title{
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        /*color: #FFFFFF;*/
+}
+
+.sub-sub-title{
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.complementary-text{
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.complementary-title{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
 }
