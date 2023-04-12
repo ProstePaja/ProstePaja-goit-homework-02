@@ -85,7 +85,7 @@
 }
 
 .contact-tel-number:hover,
-.contact-tel-numberfocus{
+.contact-tel-number:focus{
     color: #404bbf;
 }
 
