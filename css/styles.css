@@ -8,7 +8,6 @@
 
 :root{
     font-family: 'Roboto', sans-serif;
-        color: #434455;
         background-color: #FFFFFF;
         --address-color: #2E2F42;
         --adres-colr:#434455;
@@ -48,7 +47,7 @@
         align-items: center;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color:#F4F4FD;
+        color:#2E2F42;
 }
 
 .menu-link{
@@ -138,7 +137,7 @@
     background-color: #f4f4fd;
 }
 
-.section-three-one{
+.complementary-title{
     background-color: #FFFFFF;
 }
 
@@ -153,4 +152,8 @@ font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
 color: #F4F4FD;
+}
+
+.logo-text-buffer{
+    color: #f4f4fd;
 }
