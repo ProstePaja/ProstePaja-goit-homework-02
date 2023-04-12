@@ -10,6 +10,7 @@
     font-family: 'Roboto', sans-serif;
         color: #434455;
         background-color: #FFFFFF;
+        --address-color: #2E2F42;
 }
 
 .body{
@@ -45,7 +46,7 @@
         align-items: center;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2E2F42;
+        color:var(--address-color)
 }
 
 .menu-link{
@@ -55,7 +56,7 @@
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2E2F42;
+        color:var(--address-color);
 }
 
 .menu-link:hover,
