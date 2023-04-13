@@ -199,7 +199,7 @@ background-color:var(--portfolio-backroud);
 cursor: pointer;
 }
 
-.button-title-port-all:hover;
+.button-title-port-all:hover,
 .button-title-port-all:focus{
     color: #FFFFFF;
     background-color: #404BBF;
