@@ -77,6 +77,11 @@
     color: #404bbf;
 }
 
+.menu-link-adresa:hover
+.menu-link-adresa:focus{
+    color: #404bbf;
+}
+
 .address{
     font-style: normal;
     color:var(--adres-colr)
