@@ -13,6 +13,7 @@
         --adres-colr:#434455;
         --hero-color:#2e2f42;
         --portfolio-color:#4d5ae5;
+        --portfolio-backroud:#F4F4FD;
 }
 
 .body{
@@ -204,7 +205,8 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: #4D5AE5;
-background-color: #F4F4FD;
+color:var(--portfolio-color)
+background-color:var(var(--portfolio-backroud));
 cursor: pointer;
 }
+
